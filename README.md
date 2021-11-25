@@ -1,1 +1,2 @@
 # otpGenerator
+Generate Digits OTP
