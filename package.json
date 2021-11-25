@@ -1,0 +1,14 @@
+{
+  "name": "otpdigits",
+  "version": "1.0.0",
+  "description": "Generate OTP Digits ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OTP"
+  ],
+  "author": "wd3bbas",
+  "license": "ISC"
+}
