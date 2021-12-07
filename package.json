@@ -10,5 +10,9 @@
     "OTP"
   ],
   "author": "wd3bbas",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wd3bbas/otpGenerator.git"
+},
 }
